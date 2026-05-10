@@ -1,0 +1,5 @@
+timestamp,name,email,reminder_type,status
+2026-05-10 12:47:38.614009,John Doe,john@example.com,Meeting,SUCCESS
+2026-05-10 12:47:39.625005,Alice Smith,alice@example.com,Payment Reminder,SUCCESS
+2026-05-10 12:47:40.632786,Bob Johnson,bob@example.com,Webinar,SUCCESS
+2026-05-10 12:47:41.637742,Sarah Lee,sarah@example.com,Task Deadline,SUCCESS
